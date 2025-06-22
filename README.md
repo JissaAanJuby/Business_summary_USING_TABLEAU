@@ -30,10 +30,9 @@ The dashboard is built to summarize business operations for a fictional supersto
 
 ## 📈 Key Features
 
-✅ Sales and Profit by **Region**  
+✅ Sales and Profit  
 ✅ Top/Bottom **Sub-Categories** based on performance  
 ✅ Monthly **Sales Trends** over time  
-✅ KPI Cards for quick summary of Sales, Profit, Quantity, Discount  
 ✅ Interactive Filters for Region and Category  
 
 ---
@@ -52,7 +51,7 @@ The dashboard is built to summarize business operations for a fictional supersto
 
 - **Name:** Superstore_Sales_Data.xlsx  
 - **Source:** Sample Superstore dataset used in Tableau tutorials  
-- **Contents:** Sales, profit, quantity, discount, region, category, sub-category, and date
+- **Contents:** Salesperson , Country, Product, Date, Amount, Boxes shipped
 
 ---
 
@@ -62,7 +61,7 @@ The dashboard is built to summarize business operations for a fictional supersto
 <img src="![Image](https://github.com/user-attachments/assets/d397d32c-60f4-460d-aebc-b2073fcebd2d)" alt="Dashboard View" width="100%">
 <img src="![Image](https://github.com/user-attachments/assets/cb4c8413-40b9-40d9-a72c-8749fa95a65d)" alt="Dashboard View" width="100%">
 <img src="![Image](https://github.com/user-attachments/assets/6615d9d3-f373-453f-af37-c6cd1e5281c2)" alt="Dashboard View" width="100%">
-<img src="" alt="Dashboard View" width="100%">
+<img src="![Image](https://github.com/user-attachments/assets/976cb7d3-c2c3-4c45-969c-cdbfd7784a60)" alt="Dashboard View" width="100%">
 
 
 ---
