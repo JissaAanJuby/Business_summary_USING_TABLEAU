@@ -60,7 +60,7 @@ The dashboard is built to summarize business operations for a fictional supersto
 
 <img src="![Image](https://github.com/user-attachments/assets/b76c7fc1-7e10-40a8-9a92-0e8a195040c4)" alt="Dashboard View" width="100%">
 <img src="![Image](https://github.com/user-attachments/assets/d397d32c-60f4-460d-aebc-b2073fcebd2d)" alt="Dashboard View" width="100%">
-<img src="" alt="Dashboard View" width="100%">
+<img src="![Image](https://github.com/user-attachments/assets/cb4c8413-40b9-40d9-a72c-8749fa95a65d)" alt="Dashboard View" width="100%">
 <img src="" alt="Dashboard View" width="100%">
 
 ---
