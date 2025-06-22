@@ -58,7 +58,7 @@ The dashboard is built to summarize business operations for a fictional supersto
 
 ## 📸 Screenshot
 
-<img src="screenshots/dashboard_view.png" alt="Dashboard View" width="100%">
+<img src="" alt="Dashboard View" width="100%">
 
 ---
 
