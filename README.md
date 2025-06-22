@@ -1,6 +1,7 @@
 # 📊 Business Summary Using Tableau
 
-This project presents a comprehensive **Business Summary Dashboard** built using **Tableau**, based on the **Superstore Sales** dataset. The dashboard visualizes key performance metrics, sales trends, profits, and category-wise insights to help stakeholders quickly assess business health and performance.
+This project presents a comprehensive **Business Summary Dashboard** built using **Tableau**, based on the **Superstore Sales** dataset. The dashboard visualizes key performance metrics, sales trends, profits, and category-wise insights to help stakeholders quickly assess business health and performance and i also created a blog post based on this in Medium and the link is given below.
+https://medium.com/@jissaannjuby/turning-eh-okay-spreadsheets-into-oh-wow-moments-with-tableau-23b5d32794c0
 
 ---
 
